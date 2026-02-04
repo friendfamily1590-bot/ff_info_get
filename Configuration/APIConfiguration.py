@@ -1,2 +1,0 @@
-RELEASEVERSION = "OB51"
-DEBUG = False
